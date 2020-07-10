@@ -1,0 +1,21 @@
+{
+    "name": "vladimirkrav4enko/yii2-theme-domain-dependency",
+    "description": "Template dependency on site name",
+    "type": "yii2-extension",
+    "keywords": ["template dependency on site name"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "vladimirkrav4enko",
+            "email": "vladimirkravchenco@gmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "~2.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "yii2packages\\themedomaindependency\\": ""
+        }
+    }
+}
